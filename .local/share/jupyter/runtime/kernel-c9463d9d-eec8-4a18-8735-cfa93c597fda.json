@@ -1,0 +1,13 @@
+{
+  "shell_port": 47813,
+  "iopub_port": 44485,
+  "stdin_port": 58251,
+  "control_port": 58245,
+  "hb_port": 42303,
+  "ip": "127.0.0.1",
+  "key": "f9b48e68-f803c7a25a55f6aeb0257df3",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/CensusDataExploration/week3assignment-Copy1.ipynb"
+}
